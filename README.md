@@ -1,4 +1,4 @@
-# Opportunity
+# Open Source Opportunity
 
 
 | Name                                    | Stipend | Timeline            | Start Date                         | End Date                     |
@@ -39,8 +39,6 @@ tp://sigmm.org/Resources/software/ossc) | Prizes For Winners                    
 | [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                         | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |          |
 | [Script Winter of Code](https://swoc.tech/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.tech/) |
 
-* *Indian Students Only
-* ** OSS World Challenge has temporarily stopped accepting international applications.
 
 # University SoC/WoC
 
